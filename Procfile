@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar target/api_rest_wa_tomcat.jar
